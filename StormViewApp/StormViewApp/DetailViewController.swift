@@ -2,7 +2,7 @@
 //  DetailViewController.swift
 //  StormViewApp
 //
-//  Created by Ilona Punya on 26.09.22.
+//  Created on 26.09.22.
 //
 
 import UIKit
