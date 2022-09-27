@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  StormViewApp
 //
-//  Created by Ilona Punya on 15.09.22.
+//  Created on 15.09.22.
 //
 
 import UIKit
